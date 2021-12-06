@@ -29,3 +29,19 @@ s.no|name|rollno
 1|arshad|g8
 2|ram|g6
 3|satwik|f0
+
+First list item
+   - First nested list item
+     - Second nested list item
+
+~~This was mistaken text~~
+
+**This text is _extremely_ important**
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+😆
+😿
+↪️
+🌝 
+🕶️
